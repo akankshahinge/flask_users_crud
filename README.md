@@ -41,7 +41,7 @@ Build and start the containers using Docker Compose:
 ```
 docker-compose up --build
 ```
-The Flask application will be accessible at:
+#### The Flask application will be accessible at:
 http://localhost:4000
-The PostgreSQL database will be exposed at:
+#### The PostgreSQL database will be exposed at:
 localhost:5432
